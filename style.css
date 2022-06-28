@@ -114,3 +114,8 @@ p {
     font-size: 60px;
   }
 }
+@media (max-width: 768px) {
+  img {
+    margin-top: 25px;
+  }
+}
