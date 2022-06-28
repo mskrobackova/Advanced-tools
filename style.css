@@ -3,7 +3,9 @@
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
-
+body {
+  margin-bottom: 50px;
+}
 h1,
 h2,
 h3 {
@@ -114,7 +116,7 @@ p {
     font-size: 60px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 912px) {
   img {
     margin-top: 25px;
   }
